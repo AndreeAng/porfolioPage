@@ -11,8 +11,8 @@ const projectsData = [
         description: "Project 1 description",
         image: "/images/port.png",
         tag: ["All", "Web"],
-        gitUrl: "/",
-        previewUrl: "/",
+        gitUrl: "https://github.com/AndreeAng/porfolioPage",
+        previewUrl: "https://andreeangulo.com",
     },
     {
         id: 2,
